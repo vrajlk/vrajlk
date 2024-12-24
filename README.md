@@ -19,7 +19,7 @@ Let’s build something meaningful and slightly awesome! 🚀
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/lost_vraj)  
 
 ---
-<div style= "display=flex;">
+<div style= "display: flex; justify-content: center;">
   
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -41,7 +41,7 @@ Let’s build something meaningful and slightly awesome! 🚀
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)  
-<div>
+<div style="flex: 0;">
   <img src="https://lh3.googleusercontent.com/a/ACg8ocJFu9Tsx5NXwhHwndRlELZU-BYNBNgADxL6Er6bBS3kbmBUnAqJ=s288-c-no" alt="Anime GIF" width="20%" style="border-radius: 10px; margin-top: 20px; />
 </div>
 </div>
