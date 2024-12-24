@@ -50,9 +50,6 @@ Let’s build something meaningful and slightly awesome! 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrajlk&theme=dark&hide_border=false&layout=compact" width="48%"/>
 </div>  
 
-<div align="center">
-  <img src="https://lh3.googleusercontent.com/a/ACg8ocJFu9Tsx5NXwhHwndRlELZU-BYNBNgADxL6Er6bBS3kbmBUnAqJ=s288-c-no" alt="Anime GIF" width="45%" style="border-radius: 10px; margin-top: 20px;"/>
-</div>
 
 <!-- Hidden Streak Stats -->
 <!-- Uncomment this section when the streak is visible -->
