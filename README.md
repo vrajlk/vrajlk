@@ -54,7 +54,7 @@ Let’s build something meaningful and slightly awesome! 🚀
 
 <!-- Hidden Streak Stats -->
 <!-- Uncomment this section when the streak is visible -->
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrajlk&theme=dark&hide_border=false" width="49%" /> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vrajlk&theme=dark&hide_border=false" width="49%" />
 
 ---
 
